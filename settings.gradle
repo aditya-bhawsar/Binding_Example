@@ -1,0 +1,3 @@
+include ':viewbinding'
+include ':databinding'
+rootProject.name = "Binding Example"
